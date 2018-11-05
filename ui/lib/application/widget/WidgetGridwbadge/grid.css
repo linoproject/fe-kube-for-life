@@ -1,0 +1,16 @@
+.widgetwbadgewrapper {
+    
+    display: grid;
+    /*grid-gap: 10px;*/
+    background-color: #fff;
+    color: #444;
+}
+
+.box {
+    background-color: #444;
+    color: #fff;
+    border-radius: 3px;
+    /*padding: 10px;*/
+    font-size: 150%;
+
+}
